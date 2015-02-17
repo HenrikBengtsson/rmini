@@ -4,5 +4,6 @@ Title: A Minimum R Package
 Author: Henrik Bengtsson
 Maintainer: Henrik Bengtsson <henrikb@braju.com>
 License: GPL
-Description: A Minimum R Package
+Description: This is a minimal package that can be tweaked to test various aspects of building, installing and checking packages in R.
 Imports: methods
+Suggests: testthat
