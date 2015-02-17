@@ -1,3 +1,3 @@
 x <- "foo"
-expr <- substitute({ x <- 0.1 })
+expr <- substitute({ x <- 1 })
 print(expr)
