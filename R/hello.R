@@ -1,4 +1,3 @@
-# Ola Hössjer
 hello <- function() cat("Hello world!\n")
 
-.null <- function() NULL
+hello_c <- function() invisible(.Call("hello"))
